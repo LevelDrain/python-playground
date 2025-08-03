@@ -1,3 +1,8 @@
 matplotlib
 numpy
-requests
+requests    
+langchain
+langchain-experimental
+langchain-openai
+python-dotenv
+pyvis
